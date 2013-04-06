@@ -1,0 +1,4 @@
+# Generic Android ignores
+bin/
+target
+gen/
